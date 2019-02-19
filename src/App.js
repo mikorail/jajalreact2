@@ -11,6 +11,7 @@ class App extends Component {
         <Product judul="Powerbank" harga="10.000"/>
         <Product judul="Powerbank" harga="10.000"/>
         <Product judul="Powerbank" harga="10.000"/>
+        <Product judul="Powerbank" harga="10.000"/>
       </div>
     );
   }
